@@ -1,2 +1,2 @@
 # Lab_1
-32位MIPS多周期CPU设计
+32浣峂IPS澶氬懆鏈烠PU璁捐
